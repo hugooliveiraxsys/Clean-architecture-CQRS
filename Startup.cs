@@ -1,6 +1,8 @@
 ﻿using CQRSArchitecture.Domain.Handlers;
 using CQRSArchitecture.Domain.Handlers.Interfaces;
+using MediatR;
 using Microsoft.OpenApi.Models;
+using System.Reflection;
 
 namespace CQRSArchitecture
 {
@@ -22,7 +24,7 @@ namespace CQRSArchitecture
             });
 
             #region 
-            services.AddTransient<ICreateCustomerHandler, CreateCustomerHandler>();
+            services.AddMediatR(Assembly.GetExecutingAssembly());
             #endregion
         }
 
@@ -36,7 +38,7 @@ namespace CQRSArchitecture
                 app.UseSwaggerUI(c => c.SwaggerEndpoint("/swagger/v1/swagger.json", "Api v1"));
             }
 
-            app.UseHttpsRedirection();
+            app.UseHttpsRedirection(); 
 
             app.UseRouting();
 

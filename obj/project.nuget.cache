@@ -1,10 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "TuV/v1kh9Eoyd4AMMjo2lckxh5+x2/GiPQ/xKZR/nUV0U4uzZKjjByDUgd0VMSWV3gb0YNban+zJizd4jVNuFg==",
+  "dgSpecHash": "rerUQpV7Dxv2b3/A5tWCrhvNugnoQpzDCUIuGbktEAlFLeV5UzS9b9cueTz3NhDl2SA3X1sg/4Zc+Rx+xOzz6A==",
   "success": true,
   "projectFilePath": "C:\\Users\\hugo\\Desktop\\CleanArchitecture\\CQRS\\CQRSArchitecture\\CQRSArchitecture.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\hugo\\.nuget\\packages\\mediatr\\10.0.1\\mediatr.10.0.1.nupkg.sha512",
+    "C:\\Users\\hugo\\.nuget\\packages\\mediatr.contracts\\1.0.1\\mediatr.contracts.1.0.1.nupkg.sha512",
+    "C:\\Users\\hugo\\.nuget\\packages\\mediatr.extensions.microsoft.dependencyinjection\\10.0.1\\mediatr.extensions.microsoft.dependencyinjection.10.0.1.nupkg.sha512",
     "C:\\Users\\hugo\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\hugo\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
     "C:\\Users\\hugo\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
     "C:\\Users\\hugo\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
     "C:\\Users\\hugo\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",

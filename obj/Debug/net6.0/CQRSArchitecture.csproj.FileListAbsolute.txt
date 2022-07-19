@@ -25,3 +25,6 @@ C:\Users\hugo\Desktop\CleanArchitecture\CQRS\CQRSArchitecture\obj\Debug\net6.0\C
 C:\Users\hugo\Desktop\CleanArchitecture\CQRS\CQRSArchitecture\obj\Debug\net6.0\ref\CQRSArchitecture.dll
 C:\Users\hugo\Desktop\CleanArchitecture\CQRS\CQRSArchitecture\obj\Debug\net6.0\CQRSArchitecture.pdb
 C:\Users\hugo\Desktop\CleanArchitecture\CQRS\CQRSArchitecture\obj\Debug\net6.0\CQRSArchitecture.genruntimeconfig.cache
+C:\Users\hugo\Desktop\CleanArchitecture\CQRS\CQRSArchitecture\bin\Debug\net6.0\MediatR.dll
+C:\Users\hugo\Desktop\CleanArchitecture\CQRS\CQRSArchitecture\bin\Debug\net6.0\MediatR.Contracts.dll
+C:\Users\hugo\Desktop\CleanArchitecture\CQRS\CQRSArchitecture\bin\Debug\net6.0\MediatR.Extensions.Microsoft.DependencyInjection.dll
